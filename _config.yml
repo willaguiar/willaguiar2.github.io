@@ -148,7 +148,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/GH.jpg"  # will display when sharing site on Twitter
+og_image                 : "GH.jpg"  # will display when sharing site on Twitter
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
