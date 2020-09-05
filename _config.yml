@@ -92,19 +92,19 @@ author:
   links:
     - label: "Federal University of the Rio Grande"
       icon: "fas fa-fw fa-university"
-      url: "https://www.ocean.washington.edu/home/Ethan%20Campbell"
+      url: "https://www.furg.br/en/"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=HFcYgF0AAAAJ&hl=en"
-    - label: "ethancc@uw.edu"
+      url: "https://scholar.google.com/citations?user=pR2VWOAZDZEC&hl=en"
+    - label: "aguiar.wilton@gmail.com"
       icon: "fas fa-fw fa-envelope"
       url: mailto:aguiar.wilton@gmail.com
-    - label: "ethan-campbell"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ethan-campbell"
-    - label: "@ethan2sea"
+    #- label: "wilton-aguiar"
+    #  icon: "fab fa-fw fa-github"
+    #  url: "https://github.com/willaguiar"
+    - label: "@Will_agbr"
       icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/ethan2sea"
+      url: "https://twitter.com/Will_agbr"
 
 
 # Links to include in top navigation
