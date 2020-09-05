@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wilton Aguiar Filho"
+title                    : "Wilton Aguiar"
 title_separator          : "-"
-name                     : "Ethan C. Campbell"
-description              : "Ethan Campbell, PhD student in physical oceanography at University of Washington."
-url                      : "https://ethan-campbell.github.io"
+name                     : "Wilton Aguiar"
+description              : "Wilton Aguiar, Ph.D. student in oceanography at the Federal University of Rio Grande."
+url                      : "https://willaguiar.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "ethan-campbell/ethan-campbell.github.io"
+################repository               : "ethan-campbell/ethan-campbell.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -84,13 +84,13 @@ naver_site_verification  :
 # Site Author
 author:
   name             : #
-  avatar           : "/assets/images/Agulhas_II.jpg"
+  avatar           : "/GH.jpg"
   bio              : ""
   location         : #
   email            : # see below
   text             : "testing"
   links:
-    - label: "University of Washington"
+    - label: "Federal University of the Rio Grande"
       icon: "fas fa-fw fa-university"
       url: "https://www.ocean.washington.edu/home/Ethan%20Campbell"
     - label: "Google Scholar"
@@ -98,7 +98,7 @@ author:
       url: "https://scholar.google.com/citations?user=HFcYgF0AAAAJ&hl=en"
     - label: "ethancc@uw.edu"
       icon: "fas fa-fw fa-envelope"
-      url: mailto:ethancc@uw.edu
+      url: mailto:aguiar.wilton@gmail.com
     - label: "ethan-campbell"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ethan-campbell"
@@ -148,7 +148,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/Agulhas_II.jpg"  # will display when sharing site on Twitter
+og_image                 : "/GH.jpg"  # will display when sharing site on Twitter
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -157,47 +157,47 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "UA-141510668-1"
-    anonymize_ip         : # true, false (default)
+#analytics:
+#  provider               : "google" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          : "UA-141510668-1"
+#    anonymize_ip         : # true, false (default)
 
 
 
 # Reading Files
-include:
-  - .htaccess
-  - _pages
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - vendor
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
-  - CHANGELOG
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json
-  - Rakefile
-  - README
-  - tmp
-  - /docs # ignore Minimal Mistakes /docs
-  - /test # ignore Minimal Mistakes /test
-keep_files:
-  - .git
-  - .svn
+#include:
+#  - .htaccess
+#  - _pages
+#exclude:
+#  - "*.sublime-project"
+#  - "*.sublime-workspace"
+#  - vendor
+#  - .asset-cache
+#  - .bundle
+#  - .jekyll-assets-cache
+#  - .sass-cache
+#  - assets/js/plugins
+#  - assets/js/_main.js
+#  - assets/js/vendor
+#  - Capfile
+#  - CHANGELOG
+#  - config
+#  - Gemfile
+#  - Gruntfile.js
+#  - gulpfile.js
+#  - LICENSE
+#  - log
+#  - node_modules
+#  - package.json
+#  - Rakefile
+#  - README
+#  - tmp
+#  - /docs # ignore Minimal Mistakes /docs
+#  - /test # ignore Minimal Mistakes /test
+#keep_files:
+#  - .git#
+#  - .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
